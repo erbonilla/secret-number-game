@@ -13,8 +13,6 @@ The game provides feedback to the user if the guessed number is too high, too lo
 - [Technologies Used](#technologies-used)  
 - [Features](#features)  
 - [Screenshot](#screenshot)  
-- [Contributing](#contributing)  
-- [Authors](#authors)  
 
 ---
 
